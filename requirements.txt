@@ -1,0 +1,8 @@
+sounddevice
+numpy
+scipy
+groq
+pynput
+openai
+deepgram-sdk
+python-dotenv
