@@ -53,7 +53,7 @@ This project utilizes **Groq** to convert speech to text, allows you to use any 
 
 3. **Configure API Keys**
 
-   Create a `.env` file in the root directory and add your API keys:
+   Change `.env.example` to `.env` and add your API keys:
 
 ### Usage
 
