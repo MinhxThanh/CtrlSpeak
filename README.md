@@ -23,7 +23,7 @@ This project utilizes **Groq** to convert speech to text, allows you to use any 
 
 ## Features
 
-- **On-Demand Listening**: The assistant starts listening when you press **[Control] + P** by default.
+- **On-Demand Listening**: The assistant starts listening when you press **[Control] + Q** by default.
 - **Speech-to-Text Conversion**: Use Groq to transcribe spoken words into text.
 - **AI Model Integration**: Integrate any AI model (e.g., GPT-3, GPT-4) to generate chat responses.
 - **Text-to-Speech Conversion**: Convert text responses back to speech using Deepgram.
