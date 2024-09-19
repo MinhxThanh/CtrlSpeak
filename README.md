@@ -63,7 +63,7 @@ Run the main application:
 python main.py
 ```
 
-Press **[Control] + P** to start the assistant. Speak into your microphone, and the assistant will listen, process your query, and respond with synthesized speech.
+Press **[Control] + Q** to start the assistant. Speak into your microphone, and the assistant will listen, process your query, and respond with synthesized speech.
 
 ## What Next?
 
