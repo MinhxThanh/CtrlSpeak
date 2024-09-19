@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/license-Please%20Don't%20Use%20This%20For%20Evil!-red.svg" alt="License">
   <a href="https://w404.net/">
-    <img src="https://img.shields.io/badge/W404.NET-purple.svg" alt="W404.NET">
+    <img src="https://img.shields.io/badge/by-W404.NET-purple.svg" alt="W404.NET">
   </a>
 </p>
 
